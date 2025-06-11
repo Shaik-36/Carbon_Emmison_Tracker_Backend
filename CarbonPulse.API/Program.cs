@@ -99,4 +99,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 Console.WriteLine("🚀 Application starting...");
+
 app.Run();
