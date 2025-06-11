@@ -1,0 +1,6 @@
+@CarbonPulse.API_HostAddress = http://localhost:5134
+
+GET {{CarbonPulse.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
